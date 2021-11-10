@@ -1,0 +1,2 @@
+# tutconfig
+config for tutorials
